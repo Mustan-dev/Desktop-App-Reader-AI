@@ -34,7 +34,7 @@ Or download directly from our website: [Download from Website](https://mustan-de
 ## Screenshots
 
 ### 1. Summary / Insights
-![Summary / Insights](Screenshots/screenshot1.png)
+![Summary / Insights](Screenshots/Screenshoot1.png)
 
 ### 2. Data Wrangling
 ![Data Wrangling](Screenshots/screenshot2.png)
