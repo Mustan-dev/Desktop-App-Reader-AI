@@ -1,0 +1,10 @@
+© 2025 [Your Name]. All Rights Reserved.
+
+This software, including any binaries, setup files, or related materials, is provided for personal use only. 
+
+You MAY NOT:
+- Copy, redistribute, or resell this software in any form
+- Modify, reverse engineer, decompile, or create derivative works
+- Use this software for commercial purposes without explicit permission
+
+All rights reserved.
