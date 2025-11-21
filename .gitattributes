@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Releases/*.exe filter=lfs diff=lfs merge=lfs -text
+Releases/*.zip filter=lfs diff=lfs merge=lfs -text
