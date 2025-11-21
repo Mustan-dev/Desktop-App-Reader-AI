@@ -20,7 +20,7 @@ Desktop App Reader AI is a Windows desktop application powered by AI that reads 
 For more information, updates, or support, visit: [mustan-dev.web.app](https://mustan-dev.web.app/)
 
 ---
-
+í
 ## Download
 ### Latest Release:
 - [Installer (ReaderAI_Setup.exe)](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/ReaderAI_Setup.exe)
@@ -34,7 +34,7 @@ Or download directly from our website: [Download from Website](https://mustan-de
 ## Screenshots
 
 ### 1. Summary / Insights
-![Summary / Insights](Screenshots/Screenshoot1.png)
+![Summary / Insights](Screenshots/screenshot7.png)
 
 ### 2. Data Wrangling
 ![Data Wrangling](Screenshots/screenshot2.png)
