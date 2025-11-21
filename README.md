@@ -1,4 +1,4 @@
-![Release](https://img.shields.io/github/v/tag/mustan-dev/Desktop-App-Reader-AI?label=release)
+![Release](https://img.shields.io/github/v/release/mustan-dev/Desktop-App-Reader-AI?label=version)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
 # Desktop App Reader AI
