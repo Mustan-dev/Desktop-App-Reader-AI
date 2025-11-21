@@ -27,7 +27,7 @@ For more information, updates, or support, visit: [mustan-dev.web.app](https://m
 - [Portable ZIP version](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/DesktopAppReaderAI_Portable.zip)
 
 
-Or download directly from our website: [Download from Website](https://mustan-dev.web.app/download)
+Or download directly from our website: [Download from Website](https://mustan-dev.web.app)
 
 ---
 
