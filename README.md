@@ -23,8 +23,9 @@ For more information, updates, or support, visit: [mustan-dev.web.app](https://m
 
 ## Download
 ### Latest Release:
-- [Installer (ReaderAI_Setup.exe)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0/ReaderAI_Setup.exe)
-- [Portable ZIP version](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0/DesktopAppReaderAI_Portable.zip)
+- [Installer (ReaderAI_Setup.exe)](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/ReaderAI_Setup.exe)
+- [Portable ZIP version](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/DesktopAppReaderAI_Portable.zip)
+
 
 Or download directly from our website: [Download from Website](https://mustan-dev.web.app/download)
 
