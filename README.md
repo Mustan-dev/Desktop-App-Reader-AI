@@ -1,4 +1,4 @@
-![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO)
+![Release](https://img.shields.io/github/v/release/mustan-dev/Desktop-App-Reader-AI)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
 # Desktop App Reader AI
@@ -20,7 +20,7 @@ Desktop App Reader AI is a Windows desktop application powered by AI that reads 
 For more information, updates, or support, visit: [mustan-dev.web.app](https://mustan-dev.web.app/)
 
 ---
-í
+ 
 ## Download
 ### Latest Release:
 - [Installer (ReaderAI_Setup.exe)](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/ReaderAI_Setup.exe)
