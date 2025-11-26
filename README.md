@@ -5,15 +5,44 @@
 
 ![App Logo](Logo/logo.png)
 
-Desktop App Reader AI is a Windows desktop application powered by AI that reads text for you. Perfect for accessibility, studying, or productivity.
+Your Offline Data Analysis Powerhouse
+
+ReaderAI Desktop is a fast, offline Windows application designed for students, data engineers, and businesses. Explore, clean, visualize, and model CSV datasets — all without cloud dependency or complex setup.
 
 ---
 
 ## Features
-- Converts text to speech quickly and accurately
-- User-friendly interface
-- Portable version available (no installation required)
+- Load & Inspect CSVs: Open large datasets in seconds with instant previews.
 
+- Data Cleaning & Transformation: Handle missing values, duplicates, and formatting effortlessly.
+
+- Data Profiling: Analyze columns for missing values, distributions, and uniqueness.
+
+- Visualizations: Generate heatmaps, scatter plots, and histograms to understand relationships.
+
+- AutoML Modeling: Automatically train machine learning models and evaluate performance.
+
+- Export Ready: Save cleaned datasets and trained models for deployment.
+
+
+---
+Why ReaderAI Desktop Matters
+
+Whether you’re analyzing research data, managing large datasets, or making business decisions, ReaderAI puts the power of data fully offline at your fingertips — fast, secure, and GDPR-safe.
+
+---
+System Requirements
+
+Windows 10/11 (32-bit or 64-bit)
+
+Portable ZIP or standard installer available
+
+Minimal system resources required
+
+---
+- Coming Soon
+- Mac version
+- Microsoft Store release
 ---
 
 ## Website
@@ -23,7 +52,15 @@ For more information, updates, or support, visit: [mustan-dev.web.app](https://m
  
 ## Download
 ### Latest Release:
+Download the ZIP: Portable ZIP
+Extract anywhere
+Run ReaderAIDesktop.exe
 - [Installer (ReaderAI_Setup.exe)](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/ReaderAI_Setup.exe)
+
+Installer Version
+Download the installer: Installer
+Run the setup and follow instructions
+Launch from Start Menu or desktop shortcut
 - [Portable ZIP version](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/DesktopAppReaderAI_Portable.zip)
 
 
