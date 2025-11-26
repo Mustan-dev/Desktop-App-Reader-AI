@@ -55,13 +55,14 @@ For more information, updates, or support, visit: [mustan-dev.web.app](https://m
 Download the ZIP: Portable ZIP
 - Extract anywhere
 - Run ReaderAIDesktop.exe
-- [Installer (ReaderAI_Setup.exe)](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/ReaderAI_Setup.exe)
+- [Portable ZIP version](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/DesktopAppReaderAI_Portable.zip)
 
 Installer Version
 - Download the installer: Installer
 - Run the setup and follow instructions
 - Launch from Start Menu or desktop shortcut
-- [Portable ZIP version](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/DesktopAppReaderAI_Portable.zip)
+- [Installer (ReaderAI_Setup.exe)](https://github.com/Mustan-dev/Desktop-App-Reader-AI/raw/refs/heads/main/Releases/ReaderAI_Setup.exe)
+
 
 
 Or download directly from our website: [Download from Website](https://mustan-dev.web.app)
